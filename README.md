@@ -1,1 +1,1 @@
-Do not use pip install nn_util
+Do not use pip install nn_utils
